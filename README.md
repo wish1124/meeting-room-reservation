@@ -1,10 +1,3 @@
----
-name: FastAPI 미션 문서
-overview: Spring Boot 기반 회의실 예약 API 프로젝트를 Python 3.13 + FastAPI로 재구현하는 과제 명세서입니다.
-todos: []
-isProject: false
----
-
 # 회의실 예약 키오스크 API — Python 3.13 + FastAPI 구현 과제
 
 ## 과제 개요
